@@ -1,0 +1,215 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 04 Jun 2023 05:37:42 at https://www.mapleparking.co.uk/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*https://www.mapleparking.co.uk/*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f0#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.mapleparking.co.uk/ -O1 "F:\Temp\qwe" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*https://www.mapleparking.co.uk/* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+05:37:42	Warning: 	Note: due to https://www.mapleparking.co.uk remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+05:39:28	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/booking/select-a-booking/
+05:39:28	Warning: 	File has moved from https://www.mapleparking.co.uk/booking/select-a-booking/ to https://www.mapleparking.co.uk/booking-with-maple-parking/select-a-booking/
+05:42:07	Warning: 	Found for https://www.mapleparking.co.uk/my-account/
+05:42:07	Warning: 	File has moved from https://www.mapleparking.co.uk/my-account/ to /login/
+05:43:38	Error: 	"Not Found" (404) at link https://www.mapleparking.co.uk/xhr.js (from https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js)
+05:43:38	Error: 	"Not Found" (404) at link https://www.mapleparking.co.uk/GET (from https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js)
+05:43:38	Error: 	"Not Found" (404) at link https://www.mapleparking.co.uk/lib/widget-management.js (from https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js)
+05:43:38	Error: 	"Not Found" (404) at link https://www.mapleparking.co.uk/c (from https://connect.facebook.net/en_US/fbevents.js)
+05:43:38	Error: 	"Not Found" (404) at link https://www.mapleparking.co.uk/b (from https://connect.facebook.net/en_US/fbevents.js)
+05:43:38	Error: 	"Not Found" (404) at link https://www.mapleparking.co.uk/POST (from https://connect.facebook.net/en_US/fbevents.js)
+05:43:38	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=3352
+05:43:38	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=3352 to https://www.mapleparking.co.uk/travel-support-during-covid-19/
+05:43:45	Error: 	"Not Found" (404) at link https://www.mapleparking.co.uk/meet-and-greet-parking-at-stansted/ (from https://www.mapleparking.co.uk/travel-support-during-covid-19/)
+05:43:45	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=97
+05:43:45	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=97 to https://www.mapleparking.co.uk/login/
+05:43:55	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=1669
+05:43:55	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=1669 to https://www.mapleparking.co.uk/meet-and-greet-airport-parking/
+05:44:06	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=1409
+05:44:06	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=1409 to https://www.mapleparking.co.uk/meet-and-greet-gatwick-south/
+05:44:06	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=1403
+05:44:06	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=1403 to https://www.mapleparking.co.uk/gatwick-north-terminal/
+05:44:16	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=1811
+05:44:16	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=1811 to https://www.mapleparking.co.uk/meet-and-greet-heathrow/
+05:44:16	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=1840
+05:44:16	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=1840 to https://www.mapleparking.co.uk/meet-and-greet-parking-at-birmingham/
+05:44:16	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=1843
+05:44:16	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=1843 to https://www.mapleparking.co.uk/airport-parking-stansted/
+05:44:16	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=3541
+05:44:16	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=3541 to https://www.mapleparking.co.uk/meet-and-greet-luton/
+05:44:33	Error: 	"Not Found" (404) at link https://www.mapleparking.co.uk/airport/southampton (from https://www.mapleparking.co.uk/airport/)
+05:44:44	Error: 	"Not Found" (404) at link https://www.mapleparking.co.uk/airport/shannin (from https://www.mapleparking.co.uk/airport/)
+05:44:44	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=173
+05:44:44	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=173 to https://www.mapleparking.co.uk/airport/airport-parking-gatwick/
+05:44:44	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=335
+05:44:44	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=335 to https://www.mapleparking.co.uk/airport/airport-heathrow/
+05:44:44	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=311
+05:44:44	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=311 to https://www.mapleparking.co.uk/airport/airport-birmingham/
+05:44:44	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=363
+05:44:44	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=363 to https://www.mapleparking.co.uk/airport/airport-airport-stansted/
+05:44:44	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=361
+05:44:44	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=361 to https://www.mapleparking.co.uk/airport/airport-southend/
+05:44:44	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=347
+05:44:44	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=347 to https://www.mapleparking.co.uk/airport/luton/
+05:44:44	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=2141
+05:44:44	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=2141 to https://www.mapleparking.co.uk/southampton-cruise-parking/
+05:44:44	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=53
+05:44:44	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=53 to https://www.mapleparking.co.uk/how-it-works/
+05:45:00	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=503
+05:45:00	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=503 to https://www.mapleparking.co.uk/business-travellers/
+05:45:01	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=23
+05:45:01	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=23 to https://www.mapleparking.co.uk/about-us/
+05:45:10	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=89
+05:45:10	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=89 to https://www.mapleparking.co.uk/reviews/
+05:45:10	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=501
+05:45:10	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=501 to https://www.mapleparking.co.uk/rewards-loyalty/
+05:45:10	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=40
+05:45:10	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=40 to https://www.mapleparking.co.uk/contact-us/
+05:45:10	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=2323
+05:45:10	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=2323 to https://www.mapleparking.co.uk/maple-parkings-independent-airport-parking-association-award/
+05:45:10	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=3436
+05:45:10	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=3436 to https://www.mapleparking.co.uk/safety-measures-in-place/
+05:45:10	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=60
+05:45:10	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=60 to https://www.mapleparking.co.uk/booking-with-maple-parking/select-a-booking/
+05:45:10	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=131
+05:45:10	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=131 to https://www.mapleparking.co.uk/hotel/
+05:45:10	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=128
+05:45:10	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=128 to https://www.mapleparking.co.uk/packages/
+05:45:10	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=134
+05:45:10	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=134 to https://www.mapleparking.co.uk/partners-accreditations/
+05:45:10	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=51
+05:45:10	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=51 to https://www.mapleparking.co.uk/faqs/
+05:46:51	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=3107
+05:46:51	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=3107 to https://www.mapleparking.co.uk/coronavirus-update/
+05:46:51	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=44
+05:46:51	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=44 to https://www.mapleparking.co.uk/cancellations/
+05:46:51	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=505
+05:46:51	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=505 to https://www.mapleparking.co.uk/car-safety/
+05:46:51	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=46
+05:46:51	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=46 to https://www.mapleparking.co.uk/terms-conditions/
+05:46:51	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=49
+05:46:51	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=49 to https://www.mapleparking.co.uk/privacy-policy/
+05:46:51	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=1984
+05:46:51	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=1984 to https://www.mapleparking.co.uk/latest-news/feefo-2019-service-awards/
+05:46:58	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=3377
+05:46:58	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=3377 to https://www.mapleparking.co.uk/covid-19/keeping-you-and-your-car-safe-with-maple-parking/
+05:47:00	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=101
+05:47:00	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=101 to https://www.mapleparking.co.uk/login/forgot-my-password/
+05:47:00	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=99
+05:47:00	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=99 to https://www.mapleparking.co.uk/create-an-account/
+05:47:00	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=327
+05:47:00	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=327 to https://www.mapleparking.co.uk/airport/airport-edinburgh/
+05:47:00	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=2066
+05:47:00	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=2066 to https://www.mapleparking.co.uk/latest-news/park-mark-award/
+05:47:06	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=1361
+05:47:06	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=1361 to https://www.mapleparking.co.uk/price-match-guarantee/
+05:47:07	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=1717
+05:47:07	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=1717 to https://www.mapleparking.co.uk/car-cleaning/
+05:47:25	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=307
+05:47:25	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=307 to https://www.mapleparking.co.uk/airport/belfast-city/
+05:47:25	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=317
+05:47:25	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=317 to https://www.mapleparking.co.uk/airport/doncaster-sheffield/
+05:47:25	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=337
+05:47:25	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=337 to https://www.mapleparking.co.uk/airport/humberside/
+05:47:25	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=1851
+05:47:25	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=1851 to https://www.mapleparking.co.uk/meet-and-greet-parking-at-edinburgh/
+05:47:25	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=1678
+05:47:25	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=1678 to https://www.mapleparking.co.uk/airport-parking/
+05:47:25	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=1478
+05:47:25	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=1478 to https://www.mapleparking.co.uk/park-and-ride-to-gatwick-airport/
+05:47:25	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=58
+05:47:25	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=58 to https://www.mapleparking.co.uk/booking-with-maple-parking/
+05:47:25	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=1680
+05:47:25	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=1680 to https://www.mapleparking.co.uk/park-and-ride/
+05:48:05	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=4783
+05:48:05	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=4783 to https://www.mapleparking.co.uk/holiday-travel/covid-travel-restrictions-have-ended-in-the-uk/
+05:48:08	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=4435
+05:48:08	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=4435 to https://www.mapleparking.co.uk/latest-news/travel-restrictions-being-amended-on-monday-4th-october/
+05:48:11	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=4444
+05:48:11	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=4444 to https://www.mapleparking.co.uk/latest-news/cruise-parking-options/
+05:48:33	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=1793
+05:48:33	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=1793 to https://www.mapleparking.co.uk/latest-news/valet-packages/
+05:49:47	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=4439
+05:49:47	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=4439 to https://www.mapleparking.co.uk/latest-news/book-your-holiday-parking-with-confidence/
+05:49:48	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=4186
+05:49:48	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=4186 to https://www.mapleparking.co.uk/covid-19/travel-restrictions-2021/
+05:49:51	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=4114
+05:49:51	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=4114 to https://www.mapleparking.co.uk/covid-19/supercharging-your-airport-parking/
+05:51:08	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=4087
+05:51:08	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=4087 to https://www.mapleparking.co.uk/covid-19/lowdown-on-travel-2021/
+05:51:10	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=4069
+05:51:10	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=4069 to https://www.mapleparking.co.uk/valentines-day/5-things-we-can-do-at-home-to-feel-the-love-this-weekend/
+05:51:12	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=4058
+05:51:12	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=4058 to https://www.mapleparking.co.uk/meet-and-greet-parking/what-is-the-different-meet-greet-and-valet-parking/
+05:51:14	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=3727
+05:51:14	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=3727 to https://www.mapleparking.co.uk/no-wait-guarantee/
+05:51:15	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=4065
+05:51:15	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=4065 to https://www.mapleparking.co.uk/latest-news/covid-19-precautions/
+05:51:16	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=2409
+05:51:16	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=2409 to https://www.mapleparking.co.uk/vehicle-security/avoiding-rogue-airport-parking-traders/
+05:51:56	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=4063
+05:51:56	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=4063 to https://www.mapleparking.co.uk/gatwick-airport/approved-meet-and-greet-parking/
+05:51:58	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=3849
+05:51:58	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=3849 to https://www.mapleparking.co.uk/latest-news/is-it-safe-to-go-skiing/
+05:52:37	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=3844
+05:52:37	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=3844 to https://www.mapleparking.co.uk/holiday-travel/3-destinations-without-quarantine/
+05:52:39	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=3616
+05:52:39	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=3616 to https://www.mapleparking.co.uk/latest-news/meet-greet-parking-at-london-luton/
+05:52:40	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=3505
+05:52:40	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=3505 to https://www.mapleparking.co.uk/covid-19/safety-in-the-airport/
+05:53:36	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=3373
+05:53:36	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=3373 to https://www.mapleparking.co.uk/latest-news/social-distancing-in-the-airport/
+05:53:39	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=2650
+05:53:39	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=2650 to https://www.mapleparking.co.uk/latest-news/why-you-l%f0%9f%92%97ve-parking-with-maple-parking/
+05:54:22	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=2595
+05:54:22	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=2595 to https://www.mapleparking.co.uk/latest-news/booked-your-meet-and-greet-parking/
+05:54:23	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=2476
+05:54:23	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=2476 to https://www.mapleparking.co.uk/latest-news/holiday-travel-essentials/
+05:55:06	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=2539
+05:55:06	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=2539 to https://www.mapleparking.co.uk/latest-news/jump-into-january-with-a-sale/
+05:55:08	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=2120
+05:55:08	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=2120 to https://www.mapleparking.co.uk/gatwick-airport/gatwick-north-terminal-parking/
+05:55:09	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=2251
+05:55:09	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=2251 to https://www.mapleparking.co.uk/latest-news/book-meet-greet-parking-airport-confidence/
+05:55:11	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=1662
+05:55:11	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=1662 to https://www.mapleparking.co.uk/latest-news/christmas-airport-parking-offer/
+05:55:34	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=2360
+05:55:34	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=2360 to https://www.mapleparking.co.uk/latest-news/gold-membership-explained/
+05:55:37	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=2257
+05:55:37	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=2257 to https://www.mapleparking.co.uk/heathrow-airport/meet-and-greet-parking-heathrow/
+05:56:36	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=2040
+05:56:36	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=2040 to https://www.mapleparking.co.uk/latest-news/holiday-airport-parking-tips/
+05:56:38	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=2016
+05:56:38	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=2016 to https://www.mapleparking.co.uk/latest-news/meet-and-greet-parking-big-easter-sale/
+05:57:04	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=1877
+05:57:04	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=1877 to https://www.mapleparking.co.uk/latest-news/love-our-customers-cars/
+05:57:06	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=1721
+05:57:06	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=1721 to https://www.mapleparking.co.uk/latest-news/pre-book-parking/
+05:57:51	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=1554
+05:57:51	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=1554 to https://www.mapleparking.co.uk/latest-news/trustpilot-rates-maple-parking-great/
+05:57:52	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=1394
+05:57:52	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=1394 to https://www.mapleparking.co.uk/latest-news/meet-and-greet-parking-explained/
+05:58:42	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=1349
+05:58:42	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=1349 to https://www.mapleparking.co.uk/latest-news/holiday-saving-tips/
+05:58:44	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=1312
+05:58:44	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=1312 to https://www.mapleparking.co.uk/latest-news/taking-sports-equipment-on-holiday/
+05:58:46	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=1301
+05:58:46	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=1301 to https://www.mapleparking.co.uk/latest-news/the-maple-manor-hotel/
+05:59:11	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=1241
+05:59:11	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=1241 to https://www.mapleparking.co.uk/latest-news/best-airport-world/
+05:59:14	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=1182
+05:59:14	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=1182 to https://www.mapleparking.co.uk/latest-news/weve-granted-gold-trusted-service-award-feefo-review-site/
+05:59:15	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=1131
+05:59:15	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=1131 to https://www.mapleparking.co.uk/latest-news/love-is-in-the-airport/
+05:59:32	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=942
+05:59:32	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=942 to https://www.mapleparking.co.uk/latest-news/new-airports/
+05:59:33	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=940
+05:59:33	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=940 to https://www.mapleparking.co.uk/latest-news/maple-manor-parking/
+05:59:35	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=207
+05:59:35	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=207 to https://www.mapleparking.co.uk/latest-news/keep-calm-easter-break-coming/
+05:59:35	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=204
+05:59:35	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=204 to https://www.mapleparking.co.uk/latest-news/maple-manor-well-take-stress-airport-parking/
+05:59:37	Warning: 	Moved Permanently for https://www.mapleparking.co.uk/?p=1
+05:59:37	Warning: 	File has moved from https://www.mapleparking.co.uk/?p=1 to https://www.mapleparking.co.uk/latest-news/hello-world/
+
+HTTrack Website Copier/3.49-2 mirror complete in 21 minutes 56 seconds : 1342 links scanned, 1235 files written (40126777 bytes overall) [41148390 bytes received at 31267 bytes/sec], 698918 bytes transferred using HTTP compression in 14 files, ratio 33%, 24.3 requests per connection
+(9 errors, 195 warnings, 0 messages)
